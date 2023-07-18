@@ -1,10 +1,8 @@
-import logo from "../logo.svg";
 
 import "./Main.css";
 export default function Main() {
   return (
     <div>
-      
       <div className="main-container">
         <h1 className="main-h1">Fun Fact about react</h1>
         <ul>
