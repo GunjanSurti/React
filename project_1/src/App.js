@@ -4,10 +4,10 @@ import Nav from "./component/Nav";
 
 function App() {
   return (
-    <>
-      <Main />
+    <div className="container">
       <Nav />
-    </>
+      <Main />
+    </div>
   );
 }
 
